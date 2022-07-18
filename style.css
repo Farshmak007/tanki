@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.pole {
+    margin: 0  auto;
+  background:  
+  
+  linear-gradient(red, red)90px 72px / 84px 349px,
+
+  linear-gradient(red, red) 250px 72px /42px 349px,
+  linear-gradient(red, red) 290px 72px /42px 80px,
+  linear-gradient(red, red) 290px 232px /42px 190px,
+
+  linear-gradient(red, red) 420px 72px /84px 80px,
+
+  linear-gradient(red, red) 420px 262px /83px 100px,
+  linear-gradient(red, red) 420px 237px /47px 25px,
+
+  linear-gradient(red, red) 611px 262px /83px 100px,
+  linear-gradient(red, red)  647px 237px /47px 25px,
+
+  linear-gradient(red, red) 613px 72px /65px 69px,
+  linear-gradient(red, red) 613px 104px /82px 33px, 
+  linear-gradient(red, red) 641px 119px /54px 40px,
+
+  linear-gradient(red, red) 850px 104px /42px 295px,
+  linear-gradient(red, red) 808px 233px /42px 190px,
+  linear-gradient(red, red) 808px 104px /42px 60px,
+
+  linear-gradient(red, red) 1010px 173px /42px 250px,
+  linear-gradient(red, red) 1052px 104px /42px 319px,
+
+
+  linear-gradient(red, red)  611px 462px /83px 80px,
+
+  linear-gradient(red, red) 435px 462px /65px 80px,
+
+  linear-gradient(red, red)  90px 733px / 84px 270px,
+
+  linear-gradient(red, red)  152px 583px / 188px 43px,
+  linear-gradient(red, red)  176px 541px / 163px 43px,
+
+  linear-gradient(red, red)  254px 733px / 60px 270px,
+  linear-gradient(red, red)  314px 733px / 24px 180px,
+  
+  linear-gradient(red, red)  609px 634px / 84px 250px,
+
+  linear-gradient(red, red) 434px 634px / 70px 250px,
+  linear-gradient(red, red)   421px 729px / 14px 155px,
+  linear-gradient(red, red)   420px 634px / 14px 43px,
+  linear-gradient(red, red)  489px 672px /138px 80px,
+
+
+
+  linear-gradient(red, red)  1010px 689px / 84px 323px,
+
+  linear-gradient(red, red)  827px 689px / 70px 323px,
+  linear-gradient(red, red)  813px 689px / 14px 196px,
+  linear-gradient(red, red)  813px 959px / 14px 52px,
+
+  linear-gradient(red, red) 812px 551px / 17px 58px,
+  linear-gradient(red, red) 828px 579px / 17px 30px,
+
+linear-gradient(black, black)513px 1013px/ 95px 84px,
+  linear-gradient(red, red)  461px 967px / 199px 131px
+
+
+
+
+
+
+
+
+
+
+
+;
+
+
+
+ 
+    
+  background-color: #000;
+  margin-top: 20px;
+  width: 1300px;
+  height: 1100px;
+  background-repeat: no-repeat;
+}
+
+
+/*    linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px, */
+
+
+/* .grad-2 {
+    background: linear-gradient( 90deg,
+      white 50%, 
+      transparent 50%);
+    background-size: 2em 2em;
+    background-color: black;
+  }  */
+
+
+/* #7b6868 */
+
+/* 
+HTML {
+    height: 100%;
+    }
+  BODY {
+    background: white;
+    font: 16px/1.4 'Trebuchet MS', Verdana, sans-serif;
+    }
+  UL {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+    }
+  LI {
+    display: inline-block;
+    height: 10em;
+    margin: .2em;
+    width: 45%;
+    border: 1px solid;
+    border-radius: 10px;
+    }
+  
+  .grad-1 {
+    background: linear-gradient( 
+      white 50%, 
+      transparent 50%);
+    background-size: 2em 2em;
+    background-color: black;
+  }
+ 
+  /*
